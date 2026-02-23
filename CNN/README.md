@@ -1,5 +1,3 @@
-- CNNs are good for scalability.
-
 # CNN Installation / Implementation
 - pip install torch torchvision matplotlib scikit-learn
 - Use MNIST dataset:
